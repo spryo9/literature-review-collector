@@ -1,0 +1,5 @@
+{
+  "name": "SoilCarbon Intel",
+  "description": "A specialized bibliometric analysis tool for soil carbon spectroscopy. Automates search simulation, metadata extraction using Gemini AI, data cleaning, and Excel-ready export.",
+  "requestFramePermissions": []
+}
